@@ -1,0 +1,60 @@
+body
+{
+	font-family: Arial;
+	font-size: 18px;
+	background-color: #ffffff;
+}
+
+h1
+{
+	font-size: 30px;
+	background-color: #F2F2F2;
+	text-align: center;
+}
+
+form
+{
+	margin: 1cm;
+}
+
+table
+{
+	text-align: center;
+	background-color: #BDBDBD;
+}
+
+.boton
+{
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+	background-color: #FAFAFA;
+	width: 210px;
+}
+
+.caja
+{
+	font-family: Verdana, Arial;
+	background-color: #FAFAF8;
+	color: #000000;
+	font-size: 18px;
+}
+
+.PieyEncabezado
+{
+	background-color: #F2F2F2;
+	font-size: 25px;
+}
+
+.tdTitle
+{
+	font-size: 20px;
+	background-color: #BDBDBD;
+	font-weight: bold;
+}
+
+.tdBody
+{
+	background-color: #F2F2F2;
+}
